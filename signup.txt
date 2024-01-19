@@ -1,0 +1,6 @@
+Welcome to signup page
+Name =
+email id =
+username =
+password =
+confirm  password =
